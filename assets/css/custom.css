@@ -1,0 +1,9 @@
+/* Add here all your css styles (customizations) */
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+
+.blog li a {
+ color: #4765a0; 
+}

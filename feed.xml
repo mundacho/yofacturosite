@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yofacturo.bo</title>
+    <description>Yofacturo.bo es un sistema de facturación para pequeñas empresas de servicios  de Bolivia. Su objetivo principal es hacer accesible a todos la facturación computarizada
+</description>
+    <link>http://yofacturo.bo/</link>
+    <atom:link href="http://yofacturo.bo/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Nov 2019 17:34:45 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2019 17:34:45 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>¿Qué pongo en el NIT?</title>
+        <description>&lt;p&gt;Muchas veces, cuando preguntamos a un cliente a nombre de quién la factura nos
+responde con un “sin nombre” por favor. El cajero pone entonces el NIT 0 y el
+nombre de la factura en “Sin nombre”, “SN” o alguno de los valores que permite
+la normativa.&lt;/p&gt;
+
+&lt;p&gt;Pero ¿sabía Usted que no siempre puede hacer una factura sin nombre y corre el
+riesgo de tener una multa si emite una factura sin nombre en ciertas
+circunstancias?&lt;/p&gt;
+
+&lt;p&gt;De hecho, si el monto es igual o mayor a Bs 3,000 (Tres Mil Bolivianos) no se
+debería emitir una factura sin nombre y el cliente está obligado a proveer
+un número de carné de identidad o un número de NIT. Inicialmente, el
+monto mínimo era de Bs 10,000.00, sin embargo, fue modificado en la &lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2017/RND%20N%20101700000007.pdf&quot;&gt;RND
+10-17-00000007&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;De la misma manera hay algunos tipos de clientes a los que no se les debe poner
+la factura como Sin nmbre sino un número de NIT especial, el 99001. Esto se
+sustenta en la &lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2016/RND10-0021-16.pdf]&quot;&gt;RND-10-0021-16.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Estos clientes son los extranjeros no residentes, las personerías jurídicas y
+las embajadas y consulados.&lt;/p&gt;
+
+&lt;p&gt;Veamos algunos ejemplos de cuando se tiene que usar esto NIT especial. El caso
+de extranjeros no residentes se aplica por ejemplo a hoteles cuyos huespedes del
+extranjero no tienen NIT ni carné de identidad.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img class=&quot;img-responsive full-width&quot; src=&quot;/assets/img/post14/nit.png&quot; alt=&quot;Diagrama NIT&quot; /&gt;
+  &lt;figcaption&gt;Fig. 1 - Diagrama obtener el NIT.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Otro caso es el caso de las personerías jurídicas. Por ejemplo, los condominios
+suelen tener una personería jurídica pero no están registradas en el padrón de
+impuestos nacionales, por lo tanto no tienen NIT, y cuando un
+condominio compra productos o servicios por más de Bs 3,000 se debe poner el NIT
+99001.&lt;/p&gt;
+
+&lt;p&gt;Finalmente está el caso de las embajadas y consulados. Estos tampoco están
+obligados a registrarse en el padrón nacional de contribuyentes. Por ende,
+cuando hacen una compra y el monto es mayor o igual a Bs 3,000  se debe
+consignar el NIT 99001.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;artículos-relacionados&quot;&gt;Artículos relacionados&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2017/07/10/facturacion-con-impresoras-termicas-en-que-quedo.html&quot;&gt;¿Puedo imprimir mis facturas con impresoras térmicas?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/06/16/siete-documentos-en-local-comercial-para-evitar-multas.html&quot;&gt;7 Documentos que debe tener siempre en su negocio para evitar multas, a que no se sabía el 6to&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/03/29/ocho-claves-para-evitar-que-le-observen-las-facturas.html&quot;&gt;8 claves para evitar que le observen las facturas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2017/08/01/que-pongo-en-nit.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2017/08/01/que-pongo-en-nit.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>¿Puedo imprimir mis facturas con impresoras térmicas?</title>
+        <description>&lt;p&gt;Este año a muchas empresas les cayó un balde de agua fría el 17 de marzo. El 
+decidió lanzar la
+&lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2017/RND-101700000006.pdf&quot;&gt;RND-10-17-00000006&lt;/a&gt; donde ponía literalmente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La emisión de facturas deberá realizarse en papel que garantice la legibilidad
+y nitidez de la información a partir de su emisión, prohibiéndose el uso de
+papel térmico&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Las impresoras en papel térmico son usadas principalmente para emitir facturas,
+recibos y pasajes en rollo, son especialmente usadas para la facturación móvil y en el
+sector de transporte.&lt;/p&gt;
+
+&lt;p&gt;Obviamente, muchas empresas empezaron a considerar alternativas y se veía venir
+un costo elevadísimo para hacer la migración. Sobre todo que el plazo dado era
+de apenas 3 meses y medio (hasta el 1 de julio de 2017).&lt;/p&gt;
+
+&lt;p&gt;No se sabe lo que pasó entre tanto, pero probablemente hubo mucha presión de los
+empresarios y el SIN, como pocas veces retrocedió. En la
+&lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2017/RND%20N%20101700000007.pdf&quot;&gt;RND 10-17-00000007&lt;/a&gt; del 28 de abril de 2017 el SIN sacó una nueva normativa
+que esta vez permite la facturación con papel térmico pero pone ciertas
+limitaciones en el tipo de papel a usar. Las limitaciones son las siguientes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gramaje de 78 grs.&lt;/li&gt;
+  &lt;li&gt;Calidad de papel alta que garantice la permanencia de datos por un periodo de
+tiempo igual o mayor a ocho (8) años&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusión&quot;&gt;Conclusión&lt;/h2&gt;
+
+&lt;p&gt;Sí se puede imprimir facturas con papel térmico, sólo que se tienen que tomar en
+cuenta las restricciones que ahora están vigentes.&lt;/p&gt;
+
+&lt;p&gt;¿Tienes preguntas? No dudes en dejarnos un comentario abajo.&lt;/p&gt;
+
+&lt;h2 id=&quot;artículos-relacionados&quot;&gt;Artículos relacionados&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/06/16/siete-documentos-en-local-comercial-para-evitar-multas.html&quot;&gt;7 Documentos que debe tener siempre en su negocio para evitar multas, a que no se sabía el 6to&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/03/29/ocho-claves-para-evitar-que-le-observen-las-facturas.html&quot;&gt;8 claves para evitar que le observen las facturas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 10 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2017/07/10/facturacion-con-impresoras-termicas-en-que-quedo.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2017/07/10/facturacion-con-impresoras-termicas-en-que-quedo.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tigo Business Forum 2016</title>
+        <description>&lt;p&gt;El jueves de la anterior semana (10 de noviembre) estuvimos cubriendo el &lt;a href=&quot;http://forum.tigobusiness.com.bo/&quot;&gt;Tigo
+Business Forum&lt;/a&gt;. El evento se realizó en el Salón Conquistador del Hotel Los
+Tajibos, en Santa Cruz de la Sierra, Bolivia, y estuvieron presentes 3 expertos
+internacionales en el ámbito de la tecnología: Eric Ziegler, director de diseño
+de &lt;a href=&quot;https://www.fjordnet.com&quot;&gt;Fjord&lt;/a&gt;, Jeff Wallace, CEO de &lt;a href=&quot;http://globalkinetics.com&quot;&gt;Global Kinetics&lt;/a&gt;, y el co-fundador de Apple, Steve
+Wozniak. El foro se centró en la intersección de la tecnología con las empresas.&lt;/p&gt;
+
+&lt;p&gt;El primer disertante, Eric Ziegler, se concentró en la transformación de las
+empresas. Como experto en diseño, nos habló de tendencias actuales como el
+&lt;em&gt;design thinking&lt;/em&gt;. En nuestra opinión un punto importantísimo que mencionó es
+que las empresas ya no solamente deben enfocarse en los productos para
+sus clientes, sino también en los productos internos para sus empleados. Por
+ejemplo, una empresa con una aplicación móvil interna debe mantener ciertos
+estándares de calidad muy cercanos a los de una aplicación diseñada para ser
+usada por los clientes. La razón de esto es que los empleados están
+acostumbrados a usar aplicaciones en su vida cotidiana de una calidad superior,
+por ende, esperan tener herramientas con la misma calidad al realizar su
+trabajo.&lt;/p&gt;
+
+&lt;p&gt;Jeff Wallace es un gurú de aplicaciones móviles para empresas y su charla fue un
+pequeño compendio de trucos para
+implementar esta tendencia en las empresas. De manera muy estructurada nos
+mostró los diferentes retos, problemas y soluciones que hay que enfrentar para
+que la empresa pueda implementar el faraónico emprendimiento de entrar al mundo
+móvil. Fue muy claro al explicar que tener una aplicación móvil es un gran reto
+pero que se puede hacer de a poquito, o como el lo dijo en su charla: “¿cómo se
+come un elefante? Una mordida a la vez.” Entre los diferentes temas que propuso
+habló de crear un “consejo de aplicaciones móviles” para decidir la estrategia
+global en lo que conciernen las aplicaciones móviles, crear un plan para
+priorizar todas las tareas definidas por el comité, siempre teniendo en cuenta
+que el mundo tecnológico trae cambios constantes y hay que prepararse para
+ellos.&lt;/p&gt;
+
+&lt;p&gt;El último disertante fue Wozniac. Su formato de disertación fue diferente pues
+tomó la forma de una entrevista. La entrevista fue hecha por la conocida
+periodista Glenda Umaña. Wozniak dio consejos a los empresarios para crear una
+cultura de la inveción en las empresas. Mencionó por ejemplo que los ingenieros
+deben siempre tener acceso a los depósitos de la empresa para usar piezas en
+proyectos personales. Al final de la entrevista, el público tuvo la oportunidad
+de hacer preguntas.&lt;/p&gt;
+
+&lt;h2 id=&quot;entrevista-con-jeff-wallace&quot;&gt;Entrevista con Jeff Wallace&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Yofacturo.bo&lt;/strong&gt; tuvo la oportunidad de entrevistar a Jeff Wallace, empresario
+reconocido en Estados Unidos y a nivel mundial.  A continuación un breve resumen
+de quién es Jeff Wallace, seguido de las preguntas y respuestas que sacamos de
+la entrevista.&lt;/p&gt;
+
+&lt;p&gt;Es presidente y fundador de Global Kinetics y The Bachery. Tiene más de 20 años
+de experiencia global como fundador exitoso y ejecutivo senior, desarrollador de
+negocios, profesional en marketing con amplias habilidades en negocios incluídos
+liderazgo, estrategia, tecnología, finanzas y gestión operativa. Su experiencia
+se deriva de la tecnología y el espíritu empresarial con experiencia específica
+en conectar la tecnología con las necesidades en los negocios. Es ampliamente
+publicado y reconocido como un experto en tecnologías emergentes, así como un
+orador frecuente en conferencias de la industria. Jeff es un ángel inversor
+activo y asesor de varias empresas de tecnología primeras etapas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pregunta Yofacturo.bo:&lt;/strong&gt; El cliente boliviano no está acostumbrado al comercio
+por internet, está acostumbrado a una mezcla de internet y físico. ¿Qué
+recomendaría a una empresa que desea iniciar su negocio online?&lt;/p&gt;
+
+&lt;p&gt;Antes de responder a la pregunta, Jeff nos pidió más explicación acerca de cómo
+funcionaba esa mezcla de internet y físico. Le explicamos que la gente aquí en
+Bolivia no tiene la costumbre de realizar pagos online, ya que no todos tienen
+acceso a una tarjeta de crédito y de tenerla, no confían en colocar los datos de
+su tarjeta en el portal de la empresa. Por lo tanto, las empresas tienen su
+página web y/o aplicación móvil, donde muestran sus productos y/o servicios, y a
+la hora de realizar el pago, generan un código y el cliente va y paga en los
+bancos, farmacias o lugares físicos destinados a recibir dichos pagos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Respuesta de Jeff:&lt;/strong&gt; debemos tomar riesgos e invertir en tecnología. En
+Estados Unidos los empresarios están acostumbrados a tomar riesgos, porque sin
+riesgo no hay ganancia. Si las cosas nos salen mal, al menos aprendimos una
+lección valiosa y tomamos en cuenta este fracaso para hacerlo mejor la siguiente
+vez. Arriesgando se consigue consolidarse en el mercado, en un mercado que
+cambia constantemente y que si no inviertes en tecnología y te adaptas, no
+puedes competir, quedándote estancado.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pregunta Yofacturo.bo:&lt;/strong&gt; una de tus actividades es ayudar a introducir y
+establecer empresas extranjeras que desean tener presencia en el mercado
+estadounidense. Siendo cada país diferente tanto en lo cultural como en la
+manera de hacer negocios, ¿podrías darnos un ejemplo de alguna limitación que
+hayan tenido éstas empresas extranjeras al momento de trabajar con vos para
+introducirse al mercado estadounidense?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Respuesta Jeff:&lt;/strong&gt; recuerdo una vez una empresa de Europa del este que al
+momento de comenzar a trabajar se rehusaba a mostrarnos toda información de la
+empresa. Eran considerablemente celosos con sus documentos, mientras que nosotros en Estados
+Unidos somos abiertos y transparentes, porque de esa forma le transmitimos
+confianza a nuestros socios, proveedores, clientes, además de ayudarnos
+mutuamente. Claramente en ese país los empresarios son mucho más reservados y
+reacios a compartir información. Sin embargo, nuestro trabajo es explicarles y
+aconsejarles cómo se debe trabajar para tener éxito en nuestro mercado. No
+desechamos ninguna empresa por su procedencia, tenemos clientes de todas partes
+del mundo por ejemplo Corea, India, Nigeria, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pregunta Yofacturo.bo:&lt;/strong&gt; ¿cómo ayudas concretamente a estas empresas a superar
+aquellas limitaciones?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Respuesta Jeff:&lt;/strong&gt; contamos con profesionales que ayudan a
+las empresas a entender cómo funciona el mercado estadounidense, cuáles son las
+diferencias culturales y cómo entender al cliente y sus necesidades. Nuestro
+profesional encargado, debe tener mucho conocimiento de nuestro cliente,
+idealmente tener el mismo origen.  También estamos trabajando con los gobiernos
+de algunos países poniendo equipos de trabajo para educar a sus empresarios
+sobre cómo ingresar al mercado estadounidense.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2016/11/16/tigo-business-forum.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2016/11/16/tigo-business-forum.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mejore dramáticamente la calidad de sus procesos sin gastar un céntimo, 8 claves para usar listas de verificación en su empresa y disminuir errores humanos</title>
+        <description>&lt;p&gt;Aquí en Yofacturo.bo tomamos muy en serio la calidad de nuestro producto y los
+procesos que soporta, un error puede significar un multa para nosotros o para
+nuestros clientes. Parte importante de nuestros esfuerzos de calidad son las
+listas de verificación o &lt;em&gt;checklists&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Los enemigos de las listas de verififcacón dicen que hacen que las personas que
+las usan sean reducidas a máquinas y dejen de pensar, en otras palabras, se le
+quita el toque humano al asunto. Sin embargo, una buena lista de verificación
+permite evitar olvidos y errores humanos simples pero peligrosos y deja que las
+personas que las usan se concentren en otras tareas que requiren su creatividad.
+Un área donde las listas de verificación se usan con éxito desde hace
+mucho tiempo es la aviación.&lt;/p&gt;
+
+&lt;p&gt;En el libro “&lt;a href=&quot;https://www.amazon.es/El-efecto-Checklist-comprobación-Conjeturas/dp/849534856X&quot;&gt;El efecto Checklist: Cómo una simple lista de comprobación elimina
+errores y salva
+vidas&lt;/a&gt;”,
+el doctor Atul Gawande estudia los casos donde las listas de verificación son eficaces
+y donde no. Según él, las lista de verificación proveen protección
+principalmente contra las fallas de la memoria humana, sobre todo cuando se
+trata de asuntos rutinarios que se realizan bajo presión. Las fallas en la
+memoria son especialmente peligrosas en procesos llamados “todo o nada”, como
+preparar un avión para el despegue, comprar los ingredientes de una recetea, o
+enviar sus libros de venta etc. Si uno se olvida de una cosa clave, de nada
+sirve todo el esfuerzo. Las listas de verificación nos dan protección en esos
+casos particulares.&lt;/p&gt;
+
+&lt;h2 id=&quot;consejos-para-implementar-listas-de-verificación-en-su-empresa&quot;&gt;Consejos para implementar listas de verificación en su empresa&lt;/h2&gt;
+
+&lt;h3 id=&quot;elija-los-procesos-en-los-que-la-lista-será-utilizada&quot;&gt;Elija los procesos en los que la lista será utilizada&lt;/h3&gt;
+
+&lt;p&gt;Como mencionamos antes. Las listas de verificación no son para todos los
+procesos, sino que se prestan mejor para procesos “todo o nada”, es decir,
+procesos en los cuales un pequeño error puede arruinar todo lo que se ha hecho.
+Por ejemplo, un proceso “todo o nada” es el envío de los formularios a
+impuestos, un pequeño error y el envío no sirve o le causa una multa.&lt;/p&gt;
+
+&lt;p&gt;Nosotros por ejemplo tenemos listas de verificación para antes de ir al banco a
+pagar AFPs, Caja, etc. Sabemos que si la persona que va, se olvida de hacer
+sellar un papel o hacer firmar alguna planilla, entonces tendrá que ir de nuevo.
+La lista de verificación nos ayuda a evitar este tipo de inconvenientes.&lt;/p&gt;
+
+&lt;h3 id=&quot;defina-los-momentos-en-los-que-se-usará-la-lista-de-verificación&quot;&gt;Defina los momentos en los que se usará la lista de verificación&lt;/h3&gt;
+
+&lt;p&gt;El momento en que se ejecuta una lista de verificación se llama “el punto de
+pausa”. Este momento tiene que estar claramente identificado y no prestarse a
+ambiguedades.&lt;/p&gt;
+
+&lt;p&gt;Un ejemplo de un momento ambiguo es “hacer la lista de verificación el día que
+se envían los libros de ventas”. La persona que va a ejecutar la lista de
+verificación se puede preguntar, ¿antes de enviar los libros?, ¿después?, ¿en la
+mañanaa?, etc. Un ejemplo de un momento más preciso es: “Al momento de enviar
+los libros, antes de presionar el botón ‘enviar’”.&lt;/p&gt;
+
+&lt;h3 id=&quot;decidir-el-encargado-de-empezar-la-lista-de-verificación&quot;&gt;Decidir el encargado de empezar la lista de verificación&lt;/h3&gt;
+
+&lt;p&gt;Por más buena que sea una lista de verificación, no nos puede salvar por sí
+sola. El proceso debe ser siempre ejecutado por una persona, debe estar claro
+quién es esta persona y esta persona debe tomar la responsabilidad de ejecutar
+la lista en el momento indicado. Idealmente, la persona encargada de ejecutar la
+lista de verificación debe ser alguien con cierta autoridad entre las personas
+presentes. Esto es importante, porque en caso de algun requisito no cumplido,
+esta persona debe detener todo el proceso hasta que se subsane la falla.&lt;/p&gt;
+
+&lt;h3 id=&quot;mantener-la-lista-de-verificación-corta-y-concentrarse-en-lo-esencial&quot;&gt;Mantener la lista de verificación corta y concentrarse en lo esencial&lt;/h3&gt;
+
+&lt;p&gt;La lista de verificación es una herramienta que será usada por personas que
+tienen un trabajo que hacer y es inaceptable que el proceso de verificación
+del trabajo tome más tiempo que el trabajo en sí. Por esta razón, una lista de verificación
+debe ser lo más corta posible y concentrarse en lo más esencial.&lt;/p&gt;
+
+&lt;p&gt;Atul Gawande advierte que luego de sesenta a noventa segundos la lista puede
+volverse una distracción al trabajo en cuestión. Hay que recordar que una lista
+de verificación no es un manual ni una guía detallada de como hacer una tarea,
+sino una ayuda para asegurarse de hacer los pasos que son peligrosos si
+uno los olvida.&lt;/p&gt;
+
+&lt;p&gt;En el caso de nuestra lista para ir al banco, sabemos que un requisito que siempre hay
+que llevar es el carné de identidad. Sin embargo, es muy raro que la gente se
+olvide de su carné, así que para concentrarnos en lo esencial, no lo ponemos en
+nuestra lista de verificación.&lt;/p&gt;
+
+&lt;h3 id=&quot;elegir-el-tipo-de-lista-de-verificación&quot;&gt;Elegir el tipo de lista de verificación&lt;/h3&gt;
+
+&lt;p&gt;Antes de crear una lista de verificación, se debe elegir el tipo de lista que
+vamos a hacer. &lt;a href=&quot;https://www.researchgate.net/profile/Daniel_Boorman&quot;&gt;Daniel
+Boorman&lt;/a&gt;, un veterano
+piloto que desarrolla las listas de verificación para la empresa
+&lt;a href=&quot;http://www.boeing.com&quot;&gt;Boeing&lt;/a&gt;, indica que hay 2 tipos de listas de
+verificación: LEER Y HACER, y LEER Y CONFIRMAR.&lt;/p&gt;
+
+&lt;p&gt;En una lista LEER Y HACER, el equipo que hace la  tarea lee cada paso y lo
+ejecuta, como haciendo una receta de cocina. En las listas LEER Y CONFIRMAR el
+equipo primero ejecuta todas las tareas que debe hacer y luego alguien lee la
+lista y confirma que todo está hecho.&lt;/p&gt;
+
+&lt;p&gt;Es importante elegir uno de estos tipos de lista e indicar en la hoja de la
+lista de verificación el tipo de lista que se está usando.&lt;/p&gt;
+
+&lt;h3 id=&quot;probar-la-lista-en-la-vida-real&quot;&gt;Probar la lista en la vida real&lt;/h3&gt;
+
+&lt;p&gt;Boorman insiste principalmente en el hecho de que toda lista de verificación
+debe
+ser probada en la vida real. En efecto, antes de poner una lista en un entorno
+real lo ideal es probarlo en una simulación de la situación. La industria 
+aeronáutica está muy acostumbrada a ello e incluso construyen costosos
+simuladores para poder hacer este tipo de pruebas.&lt;/p&gt;
+
+&lt;p&gt;Por supuesto, no es necesario hacer un simulador de un banco para probar su
+lista para ir al banco. En casos como este, basta probar una vez, y si no sale,
+volver a probar. Hasta haber documentado el proceso correctamente.&lt;/p&gt;
+
+&lt;h3 id=&quot;mantener-la-lista-al-día&quot;&gt;Mantener la lista al día&lt;/h3&gt;
+
+&lt;p&gt;Los procedimientos cambian, y para que la lista sea útil debe estar siempre al
+día. A veces los cambios implican añadir o quitar un nuevo elemento, pero 
+otras veces la lista entera debe ser modificada. Mantener las listas al día
+garantiza que la gente la use como debe ser.&lt;/p&gt;
+
+&lt;h3 id=&quot;capacitar-al-personal&quot;&gt;Capacitar al personal&lt;/h3&gt;
+
+&lt;p&gt;Como dijimos antes, las listas no hacen nada por sí solas. Para que las listas
+sean de utilidad, la gente debe estar capacitada en su uso y en sus ventajas.
+Sin embargo, para que la gente adopte las listas es necesario que estén bien
+hechas siguiendo los principios mencionados arriba.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusión&quot;&gt;Conclusión&lt;/h2&gt;
+
+&lt;p&gt;Las listas de verificación son un método económico y eficaz para mejorar
+dramáticamente la calidad de sus servicios. Su efectividad ha sido comprobada en
+la aeronáutica, la construcción, las cirugías, etc. Siguiendo estos consejos,
+puede implementar listas de verificación en poco tiempo para sus procesos
+principales. Si le interesa más el tema, le recomendamos el libro de Atul
+Gawande, listado abajo en los recursos.&lt;/p&gt;
+
+&lt;p&gt;No dude en dejar sus reacciones en los comentarios.&lt;/p&gt;
+
+&lt;h2 id=&quot;recursos&quot;&gt;Recursos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/09/26/como-puede-ayudar-la-firma-digital-a-mi-empresa.html&quot;&gt;¿Qué es la nueva firma digital y cómo puede ayudar a mi empresa?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.es/El-efecto-Checklist-comprobación-Conjeturas/dp/849534856X&quot;&gt;El efecto Checklist: Cómo una simple lista de comprobación elimina errores y salva vidas&lt;/a&gt;, de Atul Gawande&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 31 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2016/10/31/mejore-dramaticamente-calidad-procesos.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2016/10/31/mejore-dramaticamente-calidad-procesos.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>¿Qué es la nueva firma digital y cómo puede ayudar a mi empresa?</title>
+        <description>&lt;p&gt;Imagínese firmar un contrato por miles de Bolivianos con un cliente en otro
+departamento de Bolivia sin tener que gastar un peso en viajar hasta su ciudad
+para concretar la firma del contrato. O imagínese ya no tener que ir donde
+su abogado que necesita que le firme esto o aquello para la continuación de un
+trámite. Pues, ahora esto es posible gracias a la firma digital.&lt;/p&gt;
+
+&lt;p&gt;El objetivo de este artículo es darle una idea de las aplicaciones de esta nueva
+tecnología y su funcionamiento.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-es-la-firma-digital&quot;&gt;¿Qué es la firma digital?&lt;/h3&gt;
+
+&lt;p&gt;La firma digital es una forma de firmar documentos electrónicos garantizando las
+mismas propiedades de la firma “normal”. La firma normal tiene ciertas propiedades
+importantes que son imitadas por la firma digital.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;no repudiación&lt;/strong&gt; si uno ha firmado un documento digital, no se puede negar que lo ha firmado&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;garantiza la integridad de un documento&lt;/strong&gt;  Un documento digital firmado,
+no puede ser modificado sin invalidar la firma&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;garantiza la identidad del firmante&lt;/strong&gt; es decir, si Ud recibe un documento
+firmado por una persona que Ud conoce y la firma no corresponde a la firma que
+Ud conoce, entonces puede saber que este documento no ha sido firmado por la
+persona correcta.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para entender mejor esto, veamos un ejemplo, supongamos que firmamos un contrato
+con un cliente y recibimos un email con el contrato firmado. ¿Qué tipo de
+problemas podrían surgir y cómo lo resuelve la firma digital?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La persona podría decir que le hackearon su email y que él no mandó el email.
+Sin embargo, si el email está firmado digitalmente, entonces es &lt;em&gt;imposible&lt;/em&gt; negar
+que él envió el documento.&lt;/li&gt;
+  &lt;li&gt;La persona puede decir, yo sí mandé ese documento, pero Usted lo ha
+modificado. Sin embargo, con la firma digital, un programa puede verificar que
+el documento no ha sido modificado.&lt;/li&gt;
+  &lt;li&gt;La persona podría decir que su secretaria mandó el mensaje pero sin su
+autorización. Sin embargo, si el mensaje está firmado con su firma digital y
+no la de su secretaria, esto indica que fue él y no la secretaria, el que hizo
+el envío.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Está claro que usando la firma digital se podría, de manera confiable firmar
+contratos y hacer negocios por internet.&lt;/p&gt;
+
+&lt;h3 id=&quot;cómo-funciona-concretamente&quot;&gt;¿Cómo funciona concretamente?&lt;/h3&gt;
+
+&lt;p&gt;Luego de leer todas esas bondades, seguramente se estará preguntando cómo
+funciona esto de la firma digital, cómo se garantiza que uno es el que firma,
+cómo se ve un documento firmado, como se verifica una firma, etc.&lt;/p&gt;
+
+&lt;h4 id=&quot;funcionamiento-básico&quot;&gt;Funcionamiento básico&lt;/h4&gt;
+
+&lt;p&gt;Para usar la firma digital se necesitan en concreto 4 cosas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Un certificado, es un documento informático que certifica que nosotros somos
+quienes decimos ser y contiene la llave que se usará para firma. Este documento está firmado por una entidad del gobierno,
+la &lt;a href=&quot;http://adsib.gob.bo/&quot;&gt;ADSIB&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Un token, es un dispositivo parecido a un &lt;em&gt;memory stick&lt;/em&gt; que guarda el
+certificado de manera segura. Es decir, para usar el certificado, es necesario
+usar una contraseña con el token.&lt;/li&gt;
+  &lt;li&gt;Un programa que hará la firma, que lee el certificado del token y aplica
+modifica el documento para hacer la firma&lt;/li&gt;
+  &lt;li&gt;Un documento que firmar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Estas 4 cosas se relacionan como se muestra en la Figura 1.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img class=&quot;img-responsive full-width&quot; src=&quot;/assets/img/post10/diagramaFirma.png&quot; alt=&quot;Diagrama firma&quot; /&gt;
+  &lt;figcaption&gt;Fig. 1 - Diagrama de firma digital.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Por lo tanto, cada vez que Ud necesite firmar un documento, en su computadora Ud
+tiene que abrir el programa para firmar, introducir su token en su
+computadora, escribir la contraseña del token, y finalmente hacer que el
+programa firme el documento.&lt;/p&gt;
+
+&lt;p&gt;Para usar la firma almacenada en el token, es necesario tener la contraseña del
+token y el token. La contraseña y el token sólo los debe tener el dueño de esa
+firma digital. De esta manera se garantiza que nadie aparte del dueño del token
+pueda firmar documentos.&lt;/p&gt;
+
+&lt;p&gt;Normalmente (aunque esto suele depender del programa), el documento firmado se
+ve exactamente igual que el documento sin firmar. La firma está dentro del
+documento y se verifica usando otro programa. Una vez el documento está firmado,
+puede ser enviado y su firma puede ser verificada por el receptor del documento.&lt;/p&gt;
+
+&lt;p&gt;Vale destacar que para verificar su firma, basta únicamente con tener el
+documento firmado.&lt;/p&gt;
+
+&lt;h3 id=&quot;cómo-se-puede-implementar-la-firma-en-mi-empresa&quot;&gt;¿Cómo se puede implementar la firma en mi empresa?&lt;/h3&gt;
+
+&lt;p&gt;La firma digital en Bolivia está reconocida por ley y en los casos en que se
+aplica tiene el mismo valor legal que una firma en papel.&lt;/p&gt;
+
+&lt;p&gt;La entidad encargada de dar los certificados es la
+&lt;a href=&quot;http://adsib.gob.bo/&quot;&gt;ADSIB&lt;/a&gt;. El trámite detallado para obtener un certificado
+para la firma digital se encuentra en &lt;a href=&quot;https://www.firmadigital.bo/ayuda.html#practicas-politicas&quot;&gt;esta
+página&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cabe destacar que actualmente, la aduana es uno de los usuarios de la firma
+digital, y las empresas exportadoras pueden usar esta tecnología cuando tratan
+con ella.&lt;/p&gt;
+
+&lt;h3 id=&quot;limitaciones-actuales&quot;&gt;Limitaciones actuales&lt;/h3&gt;
+
+&lt;p&gt;Si bien la firma digital es una tecnología antigua y bien establecida, su
+implementación en Bolivia está todavía en pañales.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, hasta donde llega nuestro conocimiento, la única entidad pública que permite
+realizar trámites usando esta tecnología es la Aduana Nacional.&lt;/p&gt;
+
+&lt;p&gt;Un problema con el que nos topamos al intentar obtener un certificado es que
+para obtenerlo es necesario presentarse físicamente en las oficinas de la ADSIB, es
+decir, hay que ir a La Paz. Sin embargo, las empresas operadoras de comercio
+exterior, pueden hacer el trámite en oficinas de la aduana en diferentes
+departamentos.&lt;/p&gt;
+
+&lt;p&gt;Otra limitante a la fecha (21 de septiembre de 2016) es obtener el token.
+Hasta donde llega nuestro conocimiento, ninguna empresa está trayendo los tokens para vender al
+público. La aduana los vende, pero para obtenerlos hay que ser una empresa
+operadora de comercio exterior. Aparte de eso, la &lt;a href=&quot;http://adsib.gob.bo/&quot;&gt;ADSIB&lt;/a&gt;
+sólamente indica que estándar tienen que soportar los tokens pero no da ningún
+nombre de token autorizado.&lt;/p&gt;
+
+&lt;p&gt;Al respecto de estas limitaciones, la &lt;a href=&quot;http://adsib.gob.bo/&quot;&gt;ADSIB&lt;/a&gt; nos ha
+informado que están trabajando para solucionarlas. En particular, nos han
+anunciado que antes de fin de año ellos venderán los tokens directamente y además, actualmente se
+encuentran trabajando en abrir otras agencias de registro para evitar tener que
+desplazarse a La Paz. De momento, ocasionalmente se establecen puntos temporales
+de registro en las capitales de departamentos, las fechas y lugares de estos
+puntos son comunicados en la &lt;a href=&quot;https://www.facebook.com/ADSIB-460386363989109/&quot;&gt;página de
+Facebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Basado en nuestras investigaciones hemos preparado unos cuantos recursos para
+las empresas o personas que deseen implementar la firma digital.&lt;/p&gt;
+
+&lt;h3 id=&quot;recursos-para-la-firma-digital&quot;&gt;Recursos para la firma digital&lt;/h3&gt;
+
+&lt;h4 id=&quot;modelos-de-tokens-que-soportan-la-norma-exigida-fips-140-2&quot;&gt;Modelos de tokens que soportan la norma exigida (FIPS 140-2)&lt;/h4&gt;
+
+&lt;p&gt;Las páginas están en inglés:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ftsafe.com/onlinestore/product?id=3&quot;&gt;Feitan ePass2003&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.cryptoshop.com/idprotect-key-j-laser.html?SID=n5bg6ss0pvgio5s8vh379r0nb6&amp;amp;___store=english&amp;amp;___from_store=default&quot;&gt;Athena IdProtect&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://safenet.gemalto.com/multi-factor-authentication/authenticators/pki-usb-authentication/etoken-5110-usb-token/&quot;&gt;Gemalto SafeNet eToken 5110&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://safenet.gemalto.com/multi-factor-authentication/authenticators/hybrid-authentication/etoken-7300-usb-encryption/&quot;&gt;Gemalto SafeNet eToken 7300&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;proveedores-de-token&quot;&gt;Proveedores de token&lt;/h4&gt;
+
+&lt;p&gt;No existe ninguna lista de proveedores por el momento, aparte de la Aduana, pero
+ellos sólo entregan tokens a los operadores de comercio exterior.&lt;/p&gt;
+
+&lt;p&gt;Investigando un poco hemos encontrado a la empresa que le provee los tokens a la
+Aduana que es la siguiente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.coacom.net&quot;&gt;Coacom S.R.L.&lt;/a&gt;, ellos traen el Athena IdProtect, sin
+embargo, cuando consultamos, nos informaron que solo traen en grandes
+cantidades&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ftsafe.com/onlinestore/product?id=3&quot;&gt;Feitan&lt;/a&gt; Se puede comprar
+directamente con ellos pero el envío es únicamente a los EEUU.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sitios-web-varios&quot;&gt;Sitios web varios&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://adsib.gob.bo/&quot;&gt;ADSIB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://firmadigital.bo&quot;&gt;Sitio oficial de la firma digital en Bolivia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.aduana.gob.bo/firmadigital/&quot;&gt;Sitio oficial de la firma digital de la Aduana Nacional&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;artículos-relacionados&quot;&gt;Artículos relacionados&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/12/08/ventajas-de-facturacion-computarizada-para-empresa-pequena.html&quot;&gt;5 razones para usar un sistema de facturación computarizado y dejar el talonario de una vez por todas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 26 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2016/09/26/como-puede-ayudar-la-firma-digital-a-mi-empresa.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2016/09/26/como-puede-ayudar-la-firma-digital-a-mi-empresa.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>¿Se puede dar factura a nombre de una persona diferente al comprador?</title>
+        <description>&lt;p&gt;Una práctica muy común en Bolivia es pedir factura a nombre de una persona
+diferente de la que hizo la compra. Esto sucede especialmente entre las personas que
+no tienen necesidad de la factura y que luego la venden a personas que sí la
+necesitan.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, de vez en cuando nos encontramos con empresas que no quieren darnos
+la factura a nombre de otra persona o que nos piden ciertos requisitos para dar
+curso a nuestra solicitud (por ejemplo las empresas teléfónicas, etc). 
+¿Tienen razón en hacer esto estas empresas?&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-dice-la-ley&quot;&gt;¿Qué dice la ley?&lt;/h2&gt;
+
+&lt;p&gt;La &lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2016/RND10-0021-16.pdf&quot;&gt;RND Nº
+10-0021-16&lt;/a&gt;
+en su Artículo 4, inciso o) estipula lo siguiente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;o) Comprador:&lt;/strong&gt; Persona Natural o Jurídica (incluidas las herencias yacentes,
+comunidades de bienes y demás entidades carentes de personalidad jurídica),
+pública o privada, que al haber adquirido y pagado por un determinado bien,
+servicio u otra operación, &lt;em&gt;se constituye propietario del original de la
+Factura, Nota Fiscal o Documento Equivalente emitido.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(El énfasis es nuestro). En otras palabras, la persona que hace la compra es
+automáticamente el propietario de la factura.&lt;/p&gt;
+
+&lt;p&gt;Mas adelante, en el mísmo artículo inciso w), esta vez se define lo que es la emisión de
+la factura y como debería hacerse. Veamos el texto:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Emisión:&lt;/strong&gt; Es el acto a través del cual el Sujeto Pasivo o Tercero Responsable,
+emite la Factura, Nota Fiscal o Documento Equivalente al comprador, conforme
+la normativa tributaria vigente, cumpliendo las formalidades establecidas por
+la Administración Tributaria en la presente Resolución.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Es decir, se dice que cuando se emite la factura se la emite al comprador.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, el Artículo 10 de la misma normativa dice claramente los datos que
+deben consignarse en la factura, en el punto 4 estipula lo siguiente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;4. Datos de la Transacción Comercial.&lt;/em&gt; En el cuerpo de la Factura o Nota
+Fiscal, los datos deberán ser consignados de la siguiente manera: […]
+b) Número de Identificación Tributaria (NIT) o número de Documento de Identidad o Carnet de Extranjería &lt;strong&gt;del comprador&lt;/strong&gt;, sólo datos numéricos;
+c) &lt;strong&gt;Razón Social o sigla del comprador&lt;/strong&gt; debidamente registrada en el Padrón
+Nacional de Contribuyentes para Personas Jurídicas; mínimamente el primer
+apellido para Personas Naturales o el nombre comercial del comprador, para
+Empresas Unipersonales.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(Las negritas fueron añadidas por nosotros)&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-debe-hacer-mi-empresa&quot;&gt;¿Qué debe hacer mi empresa?&lt;/h2&gt;
+
+&lt;p&gt;Está claro que, dependiendo del tipo de negocio no siempre es posible saber si
+el NIT que nos da el comprador es su NIT o el de alquien más, este es el caso
+por ejemplo de cualquier comercio que vende directamente a los clientes que
+entran en su tienda, como una tienda de ropa o un supermercado.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, los negocios que &lt;strong&gt;firman contratos&lt;/strong&gt; con sus clientes para la
+provisión de sus productos o servicios no pueden decir que no sabían quien es el
+comprador. Por consiguiente, estos negocios deben emitir la factura a nombre de
+la persona que aparece en el contrato.  Por ejemplo, una compañia aseguradora,
+una teléfónica, o incluso Yofacturo.bo tienen que &lt;strong&gt;siempre emitir la factura a
+nombre del verdadero comprador&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-pasa-si-no-emito-factura-a-nombre-de-otra-persona-y-se-puede-verificar-que-esa-persona-no-es-el-comprador&quot;&gt;¿Qué pasa si no emito factura a nombre de otra persona y se puede verificar que esa persona no es el comprador?&lt;/h2&gt;
+
+&lt;p&gt;La misma normativa que hemos estado considerando, en sus &lt;strong&gt;Disposiciones
+Adicionales&lt;/strong&gt;, dice lo siguiente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Primera.- Los deberes formales establecidos en los Artículos 8, 10, 11, 12, 13,
+14, 15, 19, 29, 39, 40 (parágrafos II y V), 42, 46, 53, 57, 60, 61, 65, 67, 68,
+70, 72, 81, 82, 83, 84, 85 y 92 de la presente Resolución, en caso de
+incumplimiento constituyen contravención tributaria, tipificada como
+Incumplimiento a Deberes Formales sujetos al régimen de sanciones establecido en
+normativa tributaria vigente, en cumplimiento a lo establecido por el Artículo
+162 de la Ley N° 2492 Código Tributario Boliviano, y demás normativa
+reglamentaria.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Como vemos, no consignar el nombre y NIT del comprador (es decir, no cumplir el
+Artículo 10) en la factura se
+constituye un incumplimiento de deberes formales. Si miramos la normativa que
+fija los montos de las multas por incumplimiento de deberes formales (&lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0032-15.pdf&quot;&gt;RND N°
+10-0032-15&lt;/a&gt;),
+vemos en el punto 7.9 de su Anexo 1 que se dice lo siguiente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No consignar datos de nominatividad (Nombre o razón social, NIT o Cédula de
+Identidad del comprador) en la emisión de facturas por importes mayores o
+iguales a Bs10.000. (Por factura)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Y que tal contravención es multada con 250 UFV de multa para las personas
+naturales y 500 UFV para las personas jurídicas.&lt;/p&gt;
+
+&lt;h2 id=&quot;artículos-relacionados&quot;&gt;Artículos relacionados&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/03/29/ocho-claves-para-evitar-que-le-observen-las-facturas.html&quot;&gt;8 claves para evitar que le observen las facturas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/06/16/siete-documentos-en-local-comercial-para-evitar-multas.html&quot;&gt;7 Documentos que debe tener siempre en su negocio para evitar multas, a que no se sabía el 6to&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Crédito de la imagen:&lt;/em&gt; &lt;a href=&quot;https://www.flickr.com/photos/fufuwolf/6748965761&quot;&gt;FuFu Wolf&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2016/09/12/puedo-dar-facturas-a-nombre-de-otra-persona.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2016/09/12/puedo-dar-facturas-a-nombre-de-otra-persona.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>¿Qué modalidad de facturación debe usar mi empresa?</title>
+        <description>&lt;p&gt;La nueva normativa de impuestos
+&lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2016/RND10-0021-16.pdf&quot;&gt;RND-10-0021-16&lt;/a&gt;,
+llamada Sistema de Facturación Virtual (SFV) incluye varias modalidades de
+facturación y esto puede muchas veces dejar a los empresarios con la duda: ¿qué
+tipo de facturación debe utilizar mi empresa? En esta entrada, sobrevolamos los
+diferentes tipos de modalidades de facturación y vemos sus ventajas y
+desventajas.&lt;/p&gt;
+
+&lt;p&gt;Estar al tanto de las diferentes modalidades de facturación es muy
+importante ya que la elección de la modalidad incorrecta puede traerle
+consecuencias a corto, mediado y largo plazo.&lt;/p&gt;
+
+&lt;h2 id=&quot;las-diferentes-modalidades-de-facturación&quot;&gt;Las diferentes modalidades de facturación&lt;/h2&gt;
+
+&lt;p&gt;La
+&lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2016/RND10-0021-16.pdf&quot;&gt;RND-10-0021-16&lt;/a&gt;
+describe 6 modalidades diferentes de facturación: la facturación manual, la
+facturación prevalorada, la facturación computarizada, la facturación oficina
+virtual, la facturación electrónica web y la facturación electrónica por ciclos.
+Cada una apunta a un caso de uso diferente.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-facturación-manual&quot;&gt;La facturación manual&lt;/h2&gt;
+
+&lt;p&gt;La facturación manual es la clásica facturación por talonario. A pesar de que en
+su momento, este tipo de facturación fue la más económica porque no requería
+nada más que un talonario y un bolígrafo, actualmente, con la omnipresencia de
+las computadoras y el internet, ha perdido su principal atractivo.&lt;/p&gt;
+
+&lt;h3 id=&quot;ventajas&quot;&gt;Ventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Económica&lt;/li&gt;
+  &lt;li&gt;Sólo requiere saber escribir para ser usado&lt;/li&gt;
+  &lt;li&gt;No se necesita computadora ni internet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desventajas&quot;&gt;Desventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Es propensa a errores, ya sea al transcribirlo a los libros de venta o al
+escribir los diferentes datos en la factura&lt;/li&gt;
+  &lt;li&gt;Es poco práctico, no se puede usar bien con las tecnologías de hoy como el
+correo electrónico&lt;/li&gt;
+  &lt;li&gt;Se ve antiguo, una desventaja en negocios que se jactan de ser modernos e
+innovadores&lt;/li&gt;
+  &lt;li&gt;No puede ser usada de manera inmediata, ya que requiere que vaya a una
+imprenta autorizada y espere la disponibilidad de la imprenta para que le
+entreguen su talonario&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;la-facturación-prevalorada&quot;&gt;La facturación prevalorada&lt;/h2&gt;
+
+&lt;p&gt;Este tipo de facturación es para casos de usos específicos, por ejemplo,
+parqueos, tarjetas de teléfono, etc. Obviamente, si se usa para los casos para
+los que fue pensada, la facturación prevalorada no tiene comparación. Este tipo
+de facturación permite vender productos o servicios predefinidos y no requiere ni siquiera
+poner los datos del cliente en la factura.&lt;/p&gt;
+
+&lt;h3 id=&quot;ventajas-1&quot;&gt;Ventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No requiere NINGÚN tipo de entrenamiento para ser usada, sólo hay que saber
+dar un papelito o tarjetita&lt;/li&gt;
+  &lt;li&gt;No se necesita computadora ni internet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desventajas-1&quot;&gt;Desventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sólo es práctico si tiene una cantidad muy limitada de productos o servicios
+que tienen un precio fijo, por ejemplo, un servicio de estacionamiento,
+tarjetas telefónicas, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;la-facturación-computarizada&quot;&gt;La facturación computarizada&lt;/h2&gt;
+
+&lt;p&gt;La facturación computarizada es también una modalidad que existía desde hace
+mucho tiempo. En la facturación computarizada, el contribuyente obtiene una
+dosificación de impuestos que luego mete en su sistema y luego, emite sus
+facturas desde su sistema. Al final de cada mes, el contribuyente tiene que
+declarar libros de ventas con las facturas que emitió su sistema.&lt;/p&gt;
+
+&lt;h3 id=&quot;ventajas-2&quot;&gt;Ventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No está conectado a impuestos de ninguna manera, contrariamente a modalidades
+que veremos más adelante, esto implica que es posible emitir facturas sin
+conexión internet&lt;/li&gt;
+  &lt;li&gt;La factura es completamente personalizada&lt;/li&gt;
+  &lt;li&gt;Hay más tiempo para anular las facturas&lt;/li&gt;
+  &lt;li&gt;Este tipo de sistemas suelen poder ser integrados a otros sistemas
+empresariales&lt;/li&gt;
+  &lt;li&gt;Es flexible, se puede imprimir en ticket, se pueden poner datos extras, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desventajas-2&quot;&gt;Desventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hay que tener una computadora o cierta infraestructura informática (utilizando
+sistemas en la nube, como Yofacturo.bo se puede eliminar esta desventaja)&lt;/li&gt;
+  &lt;li&gt;Dada la enorme importancia de la facturas para el negocio, es necesario que la
+computadora del negocio tenga copias de seguridad, y esté bien mantenida. Esto
+puede implicar costos extras. (Yofacturo.bo también incluye una copia de
+seguridad sin ningún costo)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;la-facturación-oficina-virtual&quot;&gt;La facturación oficina virtual&lt;/h2&gt;
+
+&lt;p&gt;La facturación oficina virtual es una de las nuevas modalidades introducidas en 2016.
+En esta modalidad, las facturas se emiten directamente desde un sistema en
+la página de impuestos. Las facturas son automáticamente declaradas al ser
+emitidas. Las facturas emitidas por este medio no necesitan ser impresas y
+pueden ser guardadas exclusivamente en formato digital.&lt;/p&gt;
+
+&lt;h3 id=&quot;ventajas-3&quot;&gt;Ventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No es necesario imprimir la factura&lt;/li&gt;
+  &lt;li&gt;El sistema de impuestos es gratis&lt;/li&gt;
+  &lt;li&gt;Son declaradas automáticamente, no requieren el envío del libro de ventas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desventajas-3&quot;&gt;Desventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Al ser autodeclaradas, la anulación de facturas sólo puede ser hecha hasta
+antes del último día del mes. La facturación computarizada en cambio permite
+anular facturas hasta 10 días después del final del mes&lt;/li&gt;
+  &lt;li&gt;No son muy personalizables&lt;/li&gt;
+  &lt;li&gt;No se pueden imprimir facturas en rollo&lt;/li&gt;
+  &lt;li&gt;El soporte técnico lo da impuestos&lt;/li&gt;
+  &lt;li&gt;No puede ser integrado a otros sistemas de la empresa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;la-facturación-electrónica-web&quot;&gt;La facturación electrónica web&lt;/h2&gt;
+
+&lt;p&gt;La facturación electrónica web es un híbrido entre la facturación oficina
+virtual y la facturación computarizada. Las facturas se obtienen conectándose al
+sistema de impuestos para cada emisión, pero son generadas por el sistema del
+contribuyente. En esta facturación la factura puede no ser impresa.&lt;/p&gt;
+
+&lt;h3 id=&quot;ventajas-4&quot;&gt;Ventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Es más flexible que la facturación oficina virtual&lt;/li&gt;
+  &lt;li&gt;Permite personalización&lt;/li&gt;
+  &lt;li&gt;Permite integrarse con los sistemas del usuario (porque es un sistema en casa)&lt;/li&gt;
+  &lt;li&gt;Permite enviar una copia digital de la factura, la factura no require ser
+impresa para tener validez&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desventajas-4&quot;&gt;Desventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Requiere conectarse a internet para cada factura emitida, es decir, si se
+corta el internet no puede emitir facturas&lt;/li&gt;
+  &lt;li&gt;Al ser autodeclaradas, la anulación de facturas sólo puede ser hecha hasta
+antes del último día del mes. La facturación computarizada en cambio permite
+anular facturas hasta 10 días después del final del mes&lt;/li&gt;
+  &lt;li&gt;Para conectarse al sistema de impuestos requiere la compra de un certificado
+digital que puede ser bastante caro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;la-facturación-electrónica-por-ciclos&quot;&gt;La facturación electrónica por ciclos&lt;/h2&gt;
+
+&lt;p&gt;La facturación electrónica por ciclos es una versión más flexible de la
+facturación electrónica web. Permite emitir facturas electrónicas conectándose con
+el sistema de impuestos, pero, contrariamente a la facturación electrónica web,
+no se requiere conexión para cada factura. La conexión se hace cada cierto
+tiempo (que se llama un ciclo) y al final de cada ciclo se declaran
+automáticamente las facturas.&lt;/p&gt;
+
+&lt;h3 id=&quot;ventajas-5&quot;&gt;Ventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Permite integrarse con los sistemas del usuario (porque es un sistema en casa)&lt;/li&gt;
+  &lt;li&gt;Permite enviar una copia digital de la factura, la factura no require ser
+impresa para tener validez&lt;/li&gt;
+  &lt;li&gt;No requiere conexión constante a internet, pero require conexión al principio
+de cada ciclo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desventajas-5&quot;&gt;Desventajas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Para conectarse al sistema de impuestos requiere la compra de un certificado
+digital que puede ser bastante caro&lt;/li&gt;
+  &lt;li&gt;Al ser autodeclaradas, la anulación de facturas sólo puede ser hecha hasta
+antes del último día del mes. La facturación computarizada en cambio permite
+anular facturas hasta 10 días después del final del mes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hemos visto los diferente tipos de modalidades disponibles y sus ventajas y
+desventajas. Si tiene alguna duda, no dude en dejarnos un mensaje en los
+comentarios.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Aug 2016 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2016/08/26/que-modalidad-de-facturacion-debo-utilizar.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2016/08/26/que-modalidad-de-facturacion-debo-utilizar.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>¿Sabe cuántas actividades tiene su empresa? Por qué es bueno saberlo y qué hacer si tienes muchas</title>
+        <description>&lt;p&gt;Cuando uno crea una empresa en Bolivia tiene que especificar cuales son las
+actividades a las que se va a dedicar la empresa en diferentes lugares. Por
+ejemplo, se tiene que indicar en el Testimonio de constitución, la matrícula de
+comercio y en la inscripción del NIT. Lo que muchos no saben es que el número de actividades de nuestra empresa puede
+llegar a influir en nuestras operaciones, especialmente el número de actividades
+que tenemos registradas en impuestos.&lt;/p&gt;
+
+&lt;p&gt;El problema es que la manera de facturar depende de cuántas actividades tenga,
+¿sabía Usted que cuando tiene 3 o más actividades registradas en impuestos Usted
+está obligado a emitir factura computarizada?&lt;/p&gt;
+
+&lt;p&gt;En efecto, la
+&lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2016/RND10-0021-16.pdf&quot;&gt;RND-10-0021-16&lt;/a&gt;
+en su Artículo 39 dispone lo siguiente:.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Los Sujetos Pasivos o Terceros Responsables que cuenten con tres (3) o más
+actividades económicas vigentes en el Padrón Nacional de Contribuyentes
+distintas a las de “Alquiler de Bienes raíces propios” o las comprendidas dentro
+del grupo de “Profesionales Independientes” u “Ofícios”, deberán utilizar de
+manera obligatoria las Modalidades de Facturación Prevalorada, Computarizada, 
+Oficina Virtual, Electrónica Web o Electrónica por Ciclos, previstas en los incisos
+b), c), d), e) y f) del Artículo 5 de la presente Resolución.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En otras palabras, dependiendo de su número de actividades Usted tiene que
+elegir el tipo de facturación que usará su empresa. Si su empresa tiene 3 o más
+actividades, entonces &lt;strong&gt;no&lt;/strong&gt; puede usar la facturación manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;cómo-puedo-saber-cuantas-actividades-tiene-mi-empresa&quot;&gt;¿Cómo puedo saber cuantas actividades tiene mi empresa?&lt;/h2&gt;
+
+&lt;p&gt;Para saber el número de actividades de su empresa tiene que pedir un
+“Certificado de Inscripción” al SIN (normalmente, le dan uno al inscribir su
+NIT). El Certificado de Inscripción se lo puede
+obtener directamente en la página del SIN, más precisamente en la &lt;a href=&quot;http://ov.impuestos.gob.bo/&quot;&gt;Oficina
+Virtual&lt;/a&gt; en el menú “REPOSICIÓN DE CERTIFICADO DE
+INSCRIPCIÓN”.&lt;/p&gt;
+
+&lt;p&gt;Hay que tomar en cuenta que a veces el certificado de inscripción original no
+contiene todas las actividades registradas en el SIN, por lo que vale la pena
+obtenerlo por internet para verificar que todo esté en orden.&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-puedo-hacer-si-tengo-más-de-2-actividades&quot;&gt;¿Qué puedo hacer si tengo más de 2 actividades?&lt;/h2&gt;
+
+&lt;h3 id=&quot;dar-de-baja-algunas-de-las-actividades-de-su-empresa&quot;&gt;Dar de baja algunas de las actividades de su empresa&lt;/h3&gt;
+
+&lt;p&gt;La primera solución, y más simple es dar de baja alguna de las actividades de su
+empresa. En efecto, algunas actividades pueden englobar a otras que son muy
+precisas.&lt;/p&gt;
+
+&lt;p&gt;Es recomendable que antes de tomar este paso consulte con su contador para ver
+si esto es posible. Esta opción es la más económica tanto en tiempo como en
+dinero.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Costo:&lt;/strong&gt; Una ida a impuestos para dar de baja sus actividades.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tiempo de implementación:&lt;/strong&gt; Medio día.&lt;/p&gt;
+
+&lt;h3 id=&quot;contratar-un-servicio-de-facturación-computarizada&quot;&gt;Contratar un servicio de facturación computarizada&lt;/h3&gt;
+
+&lt;p&gt;Otra solución es contratar un servicio de Facturación Computarizada. Un servicio
+de este tipo no solo le permitiría estar en norma sino también le ahorraría
+tiempo al hacer los libros de ventas y otro tipo de controles. Puede ver las
+ventajas de usar un sistema de facturación computarizada en el &lt;a href=&quot;http://yofacturo.bo/2015/12/08/ventajas-de-facturacion-computarizada-para-empresa-pequena.html&quot;&gt;siguiente
+artículo de nuestro
+blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si le interesa nuestro servicio de facturación puede encontrar toda la
+información necesaria haciendo click &lt;a href=&quot;http://yofacturo.bo&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Costo:&lt;/strong&gt; Desde Bs 700.00 anuales, si usa nuestro sistema de facturación.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tiempo de implementación:&lt;/strong&gt; 30 minutos (nuestro sistema efectivamente se instala en media hora)&lt;/p&gt;
+
+&lt;h3 id=&quot;abrir-otra-empresa&quot;&gt;Abrir otra empresa&lt;/h3&gt;
+
+&lt;p&gt;Una tercera solución es crear una nueva empresa que ejerza las actividades por
+las que Usted quiera seguir dando facturas manuales.&lt;/p&gt;
+
+&lt;p&gt;Esta solución no es precisamente la más simple, pero le permite seguir usando la
+facturación manual si es que así lo desea. Si las actividades son lo
+suficientemente diferentes, y la empresa lo suficientemente grande, esta vía es
+completamente razonable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Costo:&lt;/strong&gt; El precio de abrir una empresa (dependiendo del tipo) puede variar.
+Sin embargo, tiene que contar con el hecho que ahora tiene 2 empresas, 2
+contabilidades, 2 planillas, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tiempo de implementación:&lt;/strong&gt; Unos 2 meses hasta tener todo lo necesario para la empresa: Licencia
+de funcionamiento, Caja, AFP, etc.&lt;/p&gt;
+
+&lt;p&gt;¿Tiene dudas, comentarios, preguntas? No dude en dejar un comentario.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Jul 2016 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2016/07/15/sabe-cuantas-actividades-tiene-empresa-que-hacer-si-muchas.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2016/07/15/sabe-cuantas-actividades-tiene-empresa-que-hacer-si-muchas.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>7 Documentos que debe tener siempre en su negocio para evitar multas, a que no se sabía el 6to</title>
+        <description>&lt;p&gt;&lt;strong&gt;Actualizado el 14 de julio de 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;El 1 de julio de 2016  salió la resolución RND Nº 10-0021-16 que modifica
+algunos de los requisitos. Esta entrada ha sido actualizada para reflejar los
+cambios en dicha RND.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;En el último semestre han habido cambios y nuevas resoluciones impuestas por el
+SIN. Mucha información a ser tomada en cuenta. En este artículo hemos querido
+compilar algunos puntos importantes que deberían ayudarle a estar en norma y
+preparado ante una eventual visita del SIN a su establecimiento comercial. A
+continuación 7 documentos que debe exhibir o tener disponibles en su negocio:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-talonario-vigente-de-facturas&quot;&gt;1) Talonario vigente de facturas&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Multa:&lt;/strong&gt; 1000 UFV (Persona Natural) y 2000 UFV (Persona Jurídica)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Normativa:&lt;/strong&gt; &lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0032-15.pdf&quot;&gt;RND-10-0032-15&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dirigido a aquellas empresas que utilizan la facturación manual y que no
+han activado el formato de facturación computarizada en el SIN. Se debe tener en todo
+momento un talonario físico vigente para emitir facturas de manera inmediata a
+sus clientes.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-certificado-original-de-inscripción-al-padrón-de-contribuyentes-requisito-eliminado&quot;&gt;2) &lt;del&gt;Certificado original de inscripción al padrón de contribuyentes&lt;/del&gt; (Requisito eliminado)&lt;/h3&gt;
+
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;Multa:&lt;/strong&gt; 150 UFV (Persona Natural) y 300 UFV (Persona Jurídica) &lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;Normativa:&lt;/strong&gt; &lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0032-15.pdf&quot;&gt;RND-10-0032-15&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;Se debe exhibir el certificado en su establecimiento comercial.&lt;/del&gt; Este requisito
+ha sido eliminado en la &lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2016/RND10-0021-16.pdf&quot;&gt;RND Nº
+10-0021-16&lt;/a&gt;.
+Sin embargo, a la fecha, la
+&lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0032-15.pdf&quot;&gt;RND-10-0032-15&lt;/a&gt;
+que especifica las multas sigue conteniendo una entrada donde detalla la multa.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-libro-de-ventas-menores-del-día-o-registro-de-ventas-menores-a-bs-5&quot;&gt;3) Libro de ventas menores del día o registro de ventas menores a Bs 5&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Multa:&lt;/strong&gt; 200 UFV (Persona Natural) y 400 UFV (Persona Jurídica)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Normativa:&lt;/strong&gt; &lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0032-15.pdf&quot;&gt;RND-10-0032-15&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La normativa estipula que las ventas menores a Bs. 5 no necesitan ser
+facturadas, sin embargo, debes tenerlas registradas en un “Libro de Ventas
+Menores del Día” o en un “Registro de Ventas Menores”. Luego, al final del día
+debes realizar una factura llamada “factura resumen del libro de ventas menores
+del día” con el monto total de todas aquellas ventas realizadas por debajo de
+Bs. 5 que no fueron facturadas.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-certificado-de-activación-de-dosificación-requisito-eliminado&quot;&gt;4) &lt;del&gt;Certificado de activación de dosificación&lt;/del&gt; (Requisito eliminado)&lt;/h3&gt;
+
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;Multa:&lt;/strong&gt; 50 UFV (Persona Natural) y 100 UFV (Persona Jurídica) &lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;Normativa:&lt;/strong&gt; &lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0032-15.pdf&quot;&gt;RND-10-0032-15&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;Este certificado se lo proporciona el sistema del SIN al momento de haber
+solicitado una dosificación. Es un documento en formato PDF que debe imprimir,
+archivar y tener siempre disponible en su local comercial.&lt;/del&gt;  Este requisito
+ha sido eliminado en la &lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2016/RND10-0021-16.pdf&quot;&gt;RND Nº 10-0021-16&lt;/a&gt;.
+Sin embargo, a la fecha, la
+&lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0032-15.pdf&quot;&gt;RND-10-0032-15&lt;/a&gt;
+que especifica las multas sigue conteniendo una entrada donde detalla la multa.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-fotocopia-del-último-recibo-de-alquiler-del-establecimiento-comercial-donde-desarrolla-su-actividad-económica-requisito-eliminado&quot;&gt;5) &lt;del&gt;Fotocopia del último recibo de alquiler del establecimiento comercial donde desarrolla su actividad económica&lt;/del&gt; (Requisito eliminado)&lt;/h3&gt;
+
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;Normativa:&lt;/strong&gt; &lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0029-15.pdf&quot;&gt;RND-10-0029-15&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;Aunque Usted no lo crea, necesita guardar una fotocopia del último recibo de
+alquiler (equivalente a la factura para las personas que solo alquilan). Es un requisito que le pide el SIN.&lt;/del&gt; Este requisito
+ha sido eliminado en la &lt;a href=&quot;http://www.impuestos.gob.bo/images/normativa/rnd2016/RND10-0021-16.pdf&quot;&gt;RND Nº 10-0021-16&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-página-web-debe-contener-una-imagen-del-nit-si-se-venden-bienes-a-través-de-comercio-electrónico&quot;&gt;6) Página Web debe contener una imagen del NIT si se venden bienes a través de comercio electrónico&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Multa:&lt;/strong&gt; 400 UFV (Persona Natural) y 800 UFV (Persona Jurídica)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Normativa:&lt;/strong&gt; &lt;a href=&quot;http://impuestos.gob.bo/images/normativa/rnd2015/RND10-0032-15.pdf&quot;&gt;RND-10-0032-15&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Para el SIN su página web es considerada una extensión de su negocio, por lo
+tanto, no exponer su NIT en su sitio web de comercio electrónico es sujeto a sanción.&lt;/p&gt;
+
+&lt;h3 id=&quot;7-licencia-de-funcionamiento-de-actividad-económica&quot;&gt;7) Licencia de funcionamiento de actividad económica&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Normativa:&lt;/strong&gt; Según el municipio&lt;/p&gt;
+
+&lt;p&gt;Este requisito no es exigido por el SIN, pero sí según las ordenanzas y/o
+decretos de su municipio. Debe ser colocada de manera visible en su
+establecimiento comercial al igual que su NIT.&lt;/p&gt;
+
+&lt;p&gt;Nos pareció que la información expuesta podría serle útil. Lo invitamos a
+compartir con nosotros en los comentarios si tiene información adicional o si sabes de otros
+documentos importantes que deberíamos considerar.&lt;/p&gt;
+
+&lt;h2 id=&quot;artículos-relacionados&quot;&gt;Artículos relacionados&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/03/29/ocho-claves-para-evitar-que-le-observen-las-facturas.html&quot;&gt;8 claves para evitar que le observen las facturas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/09/12/puedo-dar-facturas-a-nombre-de-otra-persona.html&quot;&gt;¿Se puede dar factura a nombre de una persona diferente al comprador?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 16 Jun 2016 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2016/06/16/siete-documentos-en-local-comercial-para-evitar-multas.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2016/06/16/siete-documentos-en-local-comercial-para-evitar-multas.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>8 claves para evitar que le observen las facturas</title>
+        <description>&lt;p&gt;¿Alguna vez le han observado una factura y lo han hecho volver a hacerla
+porque había algún error? En este artículo compartimos algunas de las cosas
+más insólitas que pueden ser observadas cuando se hace una factura.&lt;/p&gt;
+
+&lt;p&gt;Cuando visitamos a nuestros clientes, siempre escuchamos de los problemas que
+ellos suelen tener con sus facturas. Desde clientes quisquillosos
+que exigen que todo sea exactamente como dice la norma (aunque la norma no es
+tan precisa como uno quisiera) hasta errores que suceden porque la imprenta se
+equivocó al imprimir un talonario.&lt;/p&gt;
+
+&lt;p&gt;Hacemos una recopilación de las cosas más frecuentes que hay que tomar en
+cuenta al emitir una factura, sea esta computarizada o no.&lt;/p&gt;
+
+&lt;h2 id=&quot;1--verificar-que-la-imprenta-escriba-bien-los-datos-de-dosificación&quot;&gt;1.- Verificar que la imprenta escriba bien los datos de dosificación&lt;/h2&gt;
+
+&lt;p&gt;Aunque esto es raro, es algo que le ha pasado a clientes nuestros. Antes de empezar a usar un
+talonario asegúrese que los datos de la dosificación sean los mismos que le dio
+el SIN. Debe verificar lo siguiente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Su NIT (no el de su cliente, sino el de Usted)&lt;/li&gt;
+  &lt;li&gt;La dosificación&lt;/li&gt;
+  &lt;li&gt;La fecha límite de emisión&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2--verificar-los-datos-del-comprador&quot;&gt;2.- Verificar los datos del comprador&lt;/h2&gt;
+
+&lt;p&gt;Al emitir facturas, asegúrese que el NIT y el nombre del comprador estén
+escritos correctamente. Hay que tomar en cuenta si el comprador es persona
+natural, empresa unipersonal o persona jurídica. Dependiendo del tipo de
+comprador, la normativa (RND 10-0025-14) en su artículo 54, punto 5 dice lo
+siguiente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Consigne para Personas Naturales mínimamente el primer apellido, para Empresas
+Unipersonales también es válido el nombre comercial y para Personas Jurídicas
+la razón social o sigla, los errores ortográficos no invalidan el Crédito
+Fiscal IVA de la Factura;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;3--verificar-que-el-monto-literal-corresponda-al-monto-numeral&quot;&gt;3.- Verificar que el monto literal corresponda al monto numeral&lt;/h2&gt;
+
+&lt;p&gt;Esto es obvio, pero a veces uno se olvida de hacerlo.&lt;/p&gt;
+
+&lt;h2 id=&quot;4--no-escribir-con-en-el-literal&quot;&gt;4.- No escribir “con” en el literal&lt;/h2&gt;
+
+&lt;p&gt;Esto no es tan obvio pero algunas personas observan las facturas si en el
+monto literal dice por ejemplo: ciento veinte &lt;strong&gt;con&lt;/strong&gt; 20/100. Algunas personas
+(y sistemas) escriben también ciento veinte &lt;strong&gt;y&lt;/strong&gt; 20/100. Hemos visto muchas
+facturas con el monto escrito de esta manera (e incluso nosotros también lo
+hacíamos así) así que no creemos que esto pueda causar problemas.&lt;/p&gt;
+
+&lt;p&gt;La raíz de esta “observación” es que en ninguno de los ejemplos dados en la
+normativa se usa ni “con” ni “y”. El principio de la prudencia nos indica
+entonces que lo mejor es simplemente omitir el “con” y el “y” cuando
+escribimos el monto en literal.&lt;/p&gt;
+
+&lt;h2 id=&quot;5--verificar-la-fecha-límite-de-emisión&quot;&gt;5.- Verificar la fecha límite de emisión&lt;/h2&gt;
+
+&lt;p&gt;Esto va tanto cuando emitimos como cuando recibimos una factura. La factura
+debe ser emitida siempre antes o el mismo día de la fecha límite de emisión.&lt;/p&gt;
+
+&lt;p&gt;Sistemas como &lt;a href=&quot;http://yofacturo.bo&quot;&gt;Yofacturo.bo&lt;/a&gt; pueden ayudarle a evitar
+este tipo de errores.&lt;/p&gt;
+
+&lt;h2 id=&quot;6--emitir-las-facturas-en-orden-correlativo&quot;&gt;6.- Emitir las facturas en orden correlativo&lt;/h2&gt;
+
+&lt;p&gt;Este error es más difícil de detectar que el error anterior porque tenemos que
+revisar la última factura que emitimos antes de emitir la actual. La regla es
+simple, no se puede emitir una factura con una fecha anterior a la fecha de
+la última factura emitida.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://yofacturo.bo&quot;&gt;Yofacturo.bo&lt;/a&gt; también evita que sus usuarios cometan
+este tipo de errores y directamente no permite que las facturas sean emitidas.&lt;/p&gt;
+
+&lt;h2 id=&quot;7--para-las-facturas-sin-nit-escribir-sin-nombre&quot;&gt;7.- Para las facturas sin NIT escribir “Sin nombre”&lt;/h2&gt;
+
+&lt;p&gt;La normativa es clara sobre el caso en que el cliente no quiera dar su NIT ni
+su nombre. En estos casos, se debe escribir “Sin nombre” en el campo del
+nombre o razón social y tachar el campo NIT para la facturación manual, las
+demás modalidades deben consignar el valor 0. (Ver el artículo 40, inciso 2
+de la RND 10-0025-14)&lt;/p&gt;
+
+&lt;h2 id=&quot;8--usar-el-punto-como-separador-de-decimales&quot;&gt;8.- Usar el punto como separador de decimales&lt;/h2&gt;
+
+&lt;p&gt;Para separar los decimales en las cantidades de una factura se debe utilizar
+el punto (.), es decir no se debe escribir 100,50, sino 100.50&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusión&quot;&gt;Conclusión&lt;/h3&gt;
+
+&lt;p&gt;¿Le pareció interesante? ¿Ha tenido alguna otra observación con respecto a sus
+facturas? ¡Comparta en los comentarios!&lt;/p&gt;
+
+&lt;h2 id=&quot;artículos-relacionados&quot;&gt;Artículos relacionados&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/06/16/siete-documentos-en-local-comercial-para-evitar-multas.html&quot;&gt;7 Documentos que debe tener siempre en su negocio para evitar multas, a que no se sabía el 6to&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2016/09/12/puedo-dar-facturas-a-nombre-de-otra-persona.html&quot;&gt;¿Se puede dar factura a nombre de una persona diferente al comprador?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 29 Mar 2016 00:00:00 -0400</pubDate>
+        <link>http://yofacturo.bo/2016/03/29/ocho-claves-para-evitar-que-le-observen-las-facturas.html</link>
+        <guid isPermaLink="true">http://yofacturo.bo/2016/03/29/ocho-claves-para-evitar-que-le-observen-las-facturas.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

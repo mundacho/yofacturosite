@@ -1,0 +1,14 @@
+/assets/img/mockup/iphone3.png
+/assets/img/testimonials/img1.jpg
+/assets/img/clients4/1.png
+/assets/img/clients4/4.png
+/assets/img/mockup/imac2.png
+/assets/img/clients4/2.png
+/assets/img/testimonials/img3.jpg
+/assets/img/clients4/7.png
+/assets/img/clients4/8.png
+/assets/img/testimonials/img5.jpg
+/assets/img/clients4/5.png
+/assets/img/clients4/6.png
+/assets/img/clients4/9.png
+/assets/img/clients4/3.png
